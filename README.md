@@ -7,4 +7,4 @@ This repository contains examples of using External Tables with Db2 11.5. In ord
 
 The Db2 Jupyter Extensions are already found in this repository and are used by the labs.
 
-#### Credits: IBM 2019, George Baklarz [baklarz@ca.ibm.com]
+#### Credits: IBM 2019, Phil Downey [phil.downey1@ibm.com], George Baklarz [baklarz@ca.ibm.com]
